@@ -7,5 +7,5 @@
 2. AS MENTIONED ABOVE, COULD NOT FIGURE OUT HOW TO FETCH DATA
 
 
-! [Screenshot] (TODO.png)
 
+![Atodo app- Screenshot](src/assets/TODO.png)
