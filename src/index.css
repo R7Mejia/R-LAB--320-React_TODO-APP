@@ -1,0 +1,19 @@
+body{
+  background-color: #050404;
+
+}
+ input{
+  flex-direction: column;
+  background-color: rgb(4, 243, 163);
+
+}
+.container{
+  color: antiquewhite;
+  margin-left: 15rem;
+}
+button{
+    margin-left: 10px;
+}
+:root{
+background-color: #06141d;
+}
